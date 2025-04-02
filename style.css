@@ -4,6 +4,15 @@
 
 }
 
-.botao{
-     
+button{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
 }
+input[type="checkbox"] {
+    display: none;
+}
+
+
+     
